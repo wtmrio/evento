@@ -1,69 +1,45 @@
-# Jekyll Cayman theme
+# Estamos de Volta Segundo encontro:
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+Nesse encontro Vamos ter uma programação extensa de um dia inteiro.
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+Vamos ter os seguintes temas:
 
-You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
+~* Palestra de Front-End.
 
-![](http://cl.ly/image/1T3r3d18311V/content)
+~* Palestra de Data Sciense.
 
-# How to use it?
+~* Palestra de Devops.
 
-Download the theme @ http://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+~* Palestra de Back-End.
 
-Unzip it and use it as a regular jekyll folder.
+~* Palestra de Segurança.
 
-```
-$ unzip jekyll-cayman-theme-master.zip
-```
+~* Workshop Maker.
 
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
+~* Workshop Testes.
 
-Get the required gems
-```
-$ bundle install
-```
+Tudo isso dado e apresentado por Mulheres escolhidas a dedo, que aceitaram compartilhar os seus conhecimentos conosco.
+## Grade
 
-Use it!
+### Em Breve
 
-```
-$ jekyll serve
-```
+## Incrições
 
-For more details read about [Jekyll][1] on its web page.
+Como nosso espaço é pequeno as inscrições será feito por um formulário e vocês serão selecionadas pela a sorte... Sim, pela a sorte (você leu certo). 
+Como nossa principal intenção é aceitar a todas de forma igual sem ter panelinha, sem ser pelo o amigo dos amigos. Vocês serão selecionadas por um sorteio.
 
-# Setup
+As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 30 de Junho.
 
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+Vocês vão receber um e-mail para dar os resultados (Quanto positivo ou Negativo).
 
+Caso não sejam selecionadas para esse, não fique triste.
 
-## baseurl
+### [Inscreva-se](https://goo.gl/14HU6R)
 
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: http://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenn/jekyll-cayman-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: http://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+## Fique conosco.
+[![twitter](http://icon-icons.com/icons2/478/PNG/72/Twitter_46983.png)](https://twitter.com/WTMRio)
+[![email](http://icon-icons.com/icons2/72/PNG/72/email_14410.png)](mailto:rio.wtm@gmail.com)
+[![facebook](http://icon-icons.com/icons2/478/PNG/72/facebook_47004.png)](https://www.facebook.com/wtmRio/)
+[![flickr](http://icon-icons.com/icons2/285/PNG/72/social_flickr_button_256_30645.png)](https://www.flickr.com/photos/145156315@N06/)
+[![github](http://icon-icons.com/icons2/838/PNG/72/circle-github_icon-icons.com_66826.png)](https://github.com/wtmrio)
+[![youtube](http://icon-icons.com/icons2/70/PNG/72/youtube_14198.png)](https://www.youtube.com/channel/UCRor3pBXIRAUf8RX3h5lV-A)
