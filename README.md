@@ -6,7 +6,7 @@ Vamos ter os seguintes temas:
 
 ~* Palestra de Front-End.
 
-~* Palestra de Data Sciense.
+~* Palestra de Data Science.
 
 ~* Palestra de Devops.
 
