@@ -23,7 +23,7 @@ footer-links:
   flickr: https://www.flickr.com/photos/145156315@N06/
   github: https://github.com/wtmrio
   twitter: jekyllrb
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCRor3pBXIRAUf8RX3h5lV-A
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -71,4 +71,4 @@ exclude:
   - CNAME
   
 # Add an theme
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
