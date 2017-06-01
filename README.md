@@ -23,7 +23,7 @@ Tudo isso dado e apresentado por Mulheres escolhidas a dedo, que aceitaram compa
 
 ### Em Breve
 
-## Incrições
+## Inscrições
 
 Como nosso espaço é pequeno as inscrições será feito por um formulário e vocês serão selecionadas pela a sorte... Sim, pela a sorte (você leu certo). 
 Como nossa principal intenção é aceitar a todas de forma igual sem ter panelinha, sem ser pelo o amigo dos amigos. Vocês serão selecionadas por um sorteio.
