@@ -2,21 +2,7 @@
 
 Nesse encontro Vamos ter uma programação extensa de um dia inteiro.
 
-Vamos ter os seguintes temas:
-
-~* Palestra de Front-End.
-
-~* Palestra de Data Science.
-
-~* Palestra de Devops.
-
-~* Palestra de Back-End.
-
-~* Palestra de Segurança.
-
-~* Workshop Maker.
-
-~* Workshop Testes.
+Vamos ter Muitos temas diferenciados. Fique ligado na nossa Grade!
 
 Tudo isso dado e apresentado por Mulheres escolhidas a dedo, que aceitaram compartilhar os seus conhecimentos conosco.
 ## Grade
