@@ -12,7 +12,7 @@ Palestrante | Tema | Horário
 Abertura + Coffee | ~ | 8:40
 [Susana Bouchardet](https://www.linkedin.com/in/susana-bouchardet-71287b106/) | BigData: iniciando meu trabalho com grandes dados | 9:10
 [Samanta Cicilia](https://www.linkedin.com/in/samantacici/) | Agile Testing na Prática (Workshop) | 9:50
-[Flávia Brêtas](https://www.linkedin.com/in/flaviabretas) |  Produtos Digitais Inovadores | 11:00
+[Flávia Brêtas](https://www.linkedin.com/in/flaviabretas) |  Como Projetar Produtos Digitais Inovadores | 11:00
 Almoço | ~ | 11:40
 [Thaíssa Falbo](www.thaissa.eng.br) | Varnish: Lidando com milhares de requisições | 13:00
 Érica Calil Nogueira | Nova classe desbloqueada: Game Designer - Aumentando a Lista de Habilidades | 13:40
