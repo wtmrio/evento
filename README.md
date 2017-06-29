@@ -7,7 +7,19 @@ Vamos ter Muitos temas diferenciados. Fique ligado na nossa Grade!
 Tudo isso dado e apresentado por Mulheres escolhidas a dedo, que aceitaram compartilhar os seus conhecimentos conosco.
 ## Grade
 
-### Em Breve
+Palestrante | Tema | Horário
+------------ | ------------------------- | -------------
+Abertura + Coffee | ~ | 8:40
+[Susana Bouchardet](https://www.linkedin.com/in/susana-bouchardet-71287b106/) | BigData: iniciando meu trabalho com grandes dados | 9:10
+[Samanta Cicilia](https://www.linkedin.com/in/samantacici/) | Agile Testing na Prática (Workshop) | 9:50
+[Flávia Brêtas](https://www.linkedin.com/in/flaviabretas) | Como Projetar Produtos Inovadores com recorte em produtos digitais | 11:00
+Almoço | ~ | 11:40
+[Thaíssa Falbo](www.thaissa.eng.br) | Varnish: Lidando com milhares de requisições | 13:00
+Érica Calil Nogueira | Nova classe desbloqueada: Game Designer - Aumentando a Lista de Habilidades | 13:40
+[Isabela Silveira](https://www.linkedin.com/in/isabellasilveira/) | Entendendo e identificando design patterns no front-end |14:30
+Coffee | ~ | 15:20
+[Darlene Medeiros](https://www.linkedin.com/in/darlene-medeiros) | Padrões Arquiteturais, muito além do MVC | 15:40
+Sorteio + Encerramento | ~ | 16:30
 
 ## Inscrições
 
