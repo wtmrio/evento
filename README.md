@@ -23,7 +23,7 @@ Sorteio + Encerramento | ~ | 16:30
 
 ## Local
 
-Stone Pagamentos - Rua General Justos, 375 - Nono Andar
+Stone Pagamentos, Avenida General Justos, 375 - Nono Andar
 
 ## Inscrições
 
