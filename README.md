@@ -21,6 +21,10 @@ Coffee | ~ | 15:20
 [Darlene Medeiros](https://www.linkedin.com/in/darlene-medeiros) | Padrões Arquiteturais, muito além do MVC | 15:40
 Sorteio + Encerramento | ~ | 16:30
 
+## Local
+
+Stone Pagamentos - Rua General Justos, 375 - Nono Andar
+
 ## Inscrições
 
 Como nosso espaço é pequeno as inscrições será feito por um formulário e vocês serão selecionadas pela a sorte... Sim, pela a sorte (você leu certo). 
