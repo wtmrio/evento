@@ -34,6 +34,10 @@ Caso não sejam selecionadas para esse, não fique triste.
 
 ### [Inscreva-se](https://goo.gl/14HU6R)
 
+#### Quero Palestrar
+
+Caso você tenha algum interesse em compartilhar o seu conhecimento conosco, por favor preencha esse [Forumulário](https://goo.gl/forms/EFPRVgxrzt1lyZIf1)
+
 ## Fique conosco.
 [![twitter](http://icon-icons.com/icons2/478/PNG/72/Twitter_46983.png)](https://twitter.com/WTMRio)
 [![youtube](http://icon-icons.com/icons2/70/PNG/72/youtube_14198.png)](https://www.youtube.com/channel/UCRor3pBXIRAUf8RX3h5lV-A)
