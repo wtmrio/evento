@@ -27,12 +27,12 @@ Stone Pagamentos, Avenida General Justos, 375 - Nono Andar
 
 ## Inscrições
 
-Como nosso espaço é pequeno as inscrições será feito por um formulário e vocês serão selecionadas pela a sorte... Sim, pela a sorte (você leu certo). 
-Como nossa principal intenção é aceitar a todas de forma igual sem ter panelinha, sem ser pelo o amigo dos amigos. Vocês serão selecionadas por um sorteio.
+Graças a essa noticia maravilhosa aqui: https://www.facebook.com/wtmRio/posts/1741601766138261
+Poderemos receber todas no evento. <3
 
-As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 30 de Junho.
+As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 7 de Julho até as 10 horas da manhã.
 
-Vocês vão receber um e-mail para dar os resultados (Quanto positivo ou Negativo).
+Vocês vão receber um e-mail até 12 para confirmar a inscrição de vocês, caso vocês não tenham o recebido, por favor mande um e-mail para: rio.wtm@gmail.com
 
 Caso não sejam selecionadas para esse, não fique triste.
 
