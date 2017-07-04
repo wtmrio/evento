@@ -30,7 +30,8 @@ Stone Pagamentos, Avenida General Justos, 375 - Nono Andar
 
 ## Inscrições
 
-Graças a essa noticia maravilhosa aqui: https://www.facebook.com/wtmRio/posts/1741601766138261
+Graças a essa noticia maravilhosa [aqui](https://www.facebook.com/wtmRio/posts/1741601766138261)
+
 Poderemos receber todas no evento. <3
 
 As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 7 de Julho até as 10 horas da manhã.
