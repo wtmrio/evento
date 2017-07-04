@@ -5,7 +5,10 @@ Nesse encontro Vamos ter uma programação extensa de um dia inteiro.
 Vamos ter Muitos temas diferenciados. Fique ligado na nossa Grade!
 
 Tudo isso dado e apresentado por Mulheres escolhidas a dedo, que aceitaram compartilhar os seus conhecimentos conosco.
+
 ## Grade
+
+### DATA: 8 de Julho
 
 Palestrante | Tema | Horário
 ------------ | ------------------------- | -------------
