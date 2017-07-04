@@ -35,7 +35,7 @@ Poderemos receber todas no evento. <3
 
 As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 7 de Julho até as 10 horas da manhã.
 
-Vocês vão receber um e-mail até 12 para confirmar a inscrição de vocês, caso vocês não tenham o recebido, por favor mande um e-mail para: rio.wtm@gmail.com
+Vocês vão receber um e-mail até 12 horas para confirmar a inscrição de vocês, caso vocês não tenham o recebido, por favor mande um e-mail para: rio.wtm@gmail.com
 
 ### [Inscreva-se](https://goo.gl/14HU6R)
 
