@@ -34,8 +34,6 @@ As inscrições vão começar no dia 1 de junho e vão se encerrar no dia 7 de J
 
 Vocês vão receber um e-mail até 12 para confirmar a inscrição de vocês, caso vocês não tenham o recebido, por favor mande um e-mail para: rio.wtm@gmail.com
 
-Caso não sejam selecionadas para esse, não fique triste.
-
 ### [Inscreva-se](https://goo.gl/14HU6R)
 
 #### Quero Palestrar
