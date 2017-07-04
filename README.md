@@ -42,7 +42,7 @@ Vocês vão receber um e-mail até 12 horas para confirmar a inscrição de voc�
 
 #### Quero Palestrar
 
-Caso você tenha algum interesse em compartilhar o seu conhecimento conosco, por favor preencha esse [Forumulário](https://goo.gl/forms/EFPRVgxrzt1lyZIf1)
+Caso você tenha algum interesse em compartilhar o seu conhecimento conosco, por favor preencha esse [Formulário](https://goo.gl/forms/EFPRVgxrzt1lyZIf1)
 
 ## Fique conosco.
 [![twitter](http://icon-icons.com/icons2/478/PNG/72/Twitter_46983.png)](https://twitter.com/WTMRio)
