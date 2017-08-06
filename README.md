@@ -16,18 +16,25 @@ Resolver o problema é secundário, digamos... Bom, podemos dizer que durante o 
 
 ### Linguagem
 
-Escolhemos a linguagem no dia, e ela deve atender a duas condições:
+Geralmente escolhemos a linguagem no dia, e ela deve atender a duas condições:
+
 1) Ter alguém "fluente" presente, para não ficarmos presos em questões de sintaxe e possamos focar na resolução do problema.
+
 2) Ambiente de testes instalado na máquina do dojo, para os testes, claro. Geralmente esse requisito é atendido pela pessoa "fluente" presente.
 
+Mas no nosso caso será com a linguagem **Python**.
+
+## Data
+
+Dia: 12 de Agosto de 2017
+Horário: 14:30 até 17:30
 
 ## Local
 
-Em breve
+Stone Pagamentos - Avenida General Justo, 375. 9º Andar.
 
 ## Inscrições
-
-### [Inscreva-se](#)
+### [Inscreva-se](https://www.meetup.com/pt-BR/Google-Developer-Group-GDG-Rio-de-Janeiro/events/242031092/?eventId=242031092)
 
 #### Quero Palestrar
 
