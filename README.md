@@ -2,9 +2,9 @@
 
 ## Em breve estamos mudando e melhorando nosso site.
 
-#### Quero Palestrar
+#### Quero dividir o meu conhecimento
 
-Caso você tenha algum interesse em compartilhar o seu conhecimento conosco, por favor preencha esse [Formulário](https://goo.gl/forms/EFPRVgxrzt1lyZIf1)
+Caso você tenha algum interesse em compartilhar o seu conhecimento conosco, por favor preencha esse [Formulário](https://github.com/gdgrio/quero-palestrar)
 
 ## Fique conosco.
 [![twitter](http://icon-icons.com/icons2/478/PNG/72/Twitter_46983.png)](https://twitter.com/WTMRio)
